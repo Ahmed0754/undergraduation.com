@@ -121,15 +121,6 @@ public/
 
 ---
 
-## Notes & Next Steps
-
-- Replace mock email with Customer.io call in `/api/communications`.
-- Add Auth guard (Firebase Auth) if needed.
-- Implement **Interaction Timeline** fetch (query last N interactions for student, sort by timestamp desc).
-- Tighten Firestore rules for prod.
-
----
-
 ## Screenshots
 
 - `public/screenshots/dashboard.png`
