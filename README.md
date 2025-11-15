@@ -153,9 +153,6 @@ screenshots/
 dashboard.png
 students.png
 
-markdown
-Copy code
-
 ---
 
 ## API Reference (Route Handlers)
@@ -178,9 +175,6 @@ Copy code
 npm run dev # start Next.js locally
 npm run seed # populate Firestore with demo data
 npm run check # quick counts of all collections using Admin SDK
-
-yaml
-Copy code
 
 ---
 
@@ -211,13 +205,6 @@ Create in Firestore → Indexes → Composite → Add index:
    - AI Summary (mocked explanation)  
 5. Close with how interactions/logs would be filled (already seeded)  
 
----
-
-## Screenshots
-- public/screenshots/dashboard.png  
-- public/screenshots/students.png  
-
-Use these in the repo README and/or your Loom intro overlay.
 
 ---
 
