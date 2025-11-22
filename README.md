@@ -194,16 +194,3 @@ Create in Firestore → Indexes → Composite → Add index:
 
 ## License
 For assessment/demo purposes.
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info.
