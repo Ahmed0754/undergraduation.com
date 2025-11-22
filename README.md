@@ -192,24 +192,8 @@ Create in Firestore → Indexes → Composite → Add index:
 
 ---
 
-## Loom Demo Script (≤ 5 min)
-
-1. Intro (stack + goal)  
-2. Dashboard stats + quick filters  
-3. Students list → search “aarav”, filter “Applying”  
-4. Open a profile:  
-   - Progress bar  
-   - Add a note  
-   - Send Mock Email (toast/alert)  
-   - Schedule reminder  
-   - AI Summary (mocked explanation)  
-5. Close with how interactions/logs would be filled (already seeded)  
-
-
----
-
 ## License
-For assessment/demo purposes only.
+For assessment/demo purposes.
 
 
 
